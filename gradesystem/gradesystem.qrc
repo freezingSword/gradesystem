@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/gradesystem">
+        <file>Resources/loginbk.jpg</file>
+        <file>Resources/registerbk.jpg</file>
+        <file>Resources/studentbk.jpg</file>
+        <file>Resources/teacherbk.jpg</file>
+    </qresource>
+</RCC>
